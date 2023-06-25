@@ -1,0 +1,1 @@
+New-RdcFile -Path 'Work.rdp' -ComputerName 'WorkPC.contoso.local' -UserName 'myaccount@contoso.com' -Redirect Drives,Cameras,AudioCapture -Sign
